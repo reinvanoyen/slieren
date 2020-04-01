@@ -1,0 +1,19 @@
+{
+  "name": "slieren",
+  "version": "1.0.0",
+  "description": "A Javascript library for slieren on the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slieren",
+    "swipe",
+    "slide",
+    "carousel",
+    "scroll",
+    "horizontal"
+  ],
+  "author": "Rein Van Oyen",
+  "license": "ISC"
+}
